@@ -137,6 +137,7 @@ body {
 .active {
   background-color: #4CAF50;
   color: white;
+  height: 20px;
 }
 
 .topnav .heading{
